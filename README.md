@@ -91,10 +91,10 @@
         long_description=long_description,
         long_description_content_type="text/markdown",
         url="your_url",
-        downloald_url="your_download_url",
+        download_url="your_download_url",
         include_package_data=True,
         install_requires=[
-            "dependecies",
+            "#modify this as you wish",
             "dependecies",
             "dependecies",
             "...",
