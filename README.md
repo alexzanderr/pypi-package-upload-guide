@@ -204,9 +204,12 @@ for example:
     dist
 </code>
 
-<code> **under dist/ will be\
-&nbsp;&nbsp;&nbsp;&nbsp;your_package_name-version.whl\
-&nbsp;&nbsp;&nbsp;&nbsp;your_package_name-version.tar.gz** </code>
+<code> 
+    
+    under dist/ will be
+        your_package_name-version.whl
+        your_package_name-version.tar.gz
+</code>
 
 **these files will be uploaded to pypi.org or test.pypi.org**
 <br>
