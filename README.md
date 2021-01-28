@@ -205,8 +205,8 @@ for example:
 </code>
 
 <code> **under dist/ will be\
-&nbsp;&nbsp;&nbsp;&nbsp;~your_package_name-version.whl~\
-&nbsp;&nbsp;&nbsp;&nbsp;~your_package_name-version.tar.gz~** </code>
+&nbsp;&nbsp;&nbsp;&nbsp;your_package_name-version.whl\
+&nbsp;&nbsp;&nbsp;&nbsp;your_package_name-version.tar.gz** </code>
 
 **these files will be uploaded to pypi.org or test.pypi.org**
 <br>
